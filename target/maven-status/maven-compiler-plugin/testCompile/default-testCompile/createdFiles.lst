@@ -1,0 +1,8 @@
+com\demoproject\pageObjects\LoginPage.class
+com\demoproject\testCases\TC_LoginTest_001.class
+com\demoproject\utilities\ReadConfig.class
+com\demoproject\testCases\TC_LoginDDT_002.class
+com\demoproject\utilities\Reporting.class
+com\demoproject\utilities\RandomGenerate.class
+com\demoproject\utilities\ExcelUtils.class
+com\demoproject\testCases\BaseClass.class
